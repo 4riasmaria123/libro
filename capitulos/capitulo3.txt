@@ -1,0 +1,4 @@
+<?php
+echo "git permite la creaccion de ramas lo que permite tener distintas vesiones del mismo proyecto y trabajar de manera simultanea en ellas  "
+
+?>
