@@ -3,5 +3,5 @@ echo "capitulo 1:introduccion git"
 echo"capitulo 2 : flujo de trabajo basico "
 echo"capitulo 3 repositorios remostos "
 echo"capitulo 3 repositorios remostos "
-echo"capitulo 5 conceptos avanzados  "
+
 ?>
