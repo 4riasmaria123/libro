@@ -1,0 +1,4 @@
+<?php
+echo "en este capitulo veremos como usar git hub para alojar repositorio remoto"
+
+?>
