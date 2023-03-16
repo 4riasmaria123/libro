@@ -1,6 +1,5 @@
 <?php
 echo "Chacon S. and Straub B. Pro Git. Apress."
 echo "Loeliger J. and McCull M. Version Control with Git. O'Reilly."
- "
-
+echo " rian hodson .rys git tutorial.smashwords(2014). "
 ?>
