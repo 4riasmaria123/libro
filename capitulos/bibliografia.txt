@@ -1,4 +1,4 @@
 <?php
 echo " Chacon, Scott and Straub, Ben. Pro Git. New York: Apress, 2014."
-echo " rian hodson .rys git tutorial.smashwords(2014) "
+echo " rian hodson .rys git tutorial.smashwords(2014). "
 ?>
