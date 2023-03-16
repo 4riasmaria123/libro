@@ -1,4 +1,6 @@
 <?php
-echo "chacon,s.and straud,b.pro git apress "
+echo "Chacon S. and Straub B. Pro Git. Apress."
+echo "Loeliger J. and McCull M. Version Control with Git. O'Reilly."
+ "
 
 ?>
